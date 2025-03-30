@@ -45,7 +45,7 @@ pip install backtrader pandas matplotlib
    date,open,high,low,close,volume
    2023-01-01,1800.50,1820.75,1795.25,1810.00,100000
    ```
-3. **Replace csv filename in backtesting_script.py**
+3. **Replace "gold_futures_data.csv" with your csv filename in backtesting_script.py**
    
 4. **Run the backtest**:
 
