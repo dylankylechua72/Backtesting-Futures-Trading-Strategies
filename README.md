@@ -37,21 +37,23 @@ pip install backtrader pandas matplotlib
 ```
 
 ## Usage
+1. **Download your historical price data** in CSV format
 
-1. **Prepare your data** in CSV format with columns `date, open, high, low, close, volume`:
+2. **Prepare your data** in CSV format with columns `date, open, high, low, close, volume`:
 
    ```csv
    date,open,high,low,close,volume
    2023-01-01,1800.50,1820.75,1795.25,1810.00,100000
    ```
-
-2. **Run the backtest**:
+3. **Replace csv filename in backtesting_script.py**
+   
+4. **Run the backtest**:
 
    ```bash
-   python backtest.py
+   python backtesting_script.py
    ```
 
-3. **Review the results** in the console and the interactive plot.
+5. **Review the results** in the console and the interactive plot.
 
 ## Customization
 
