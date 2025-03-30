@@ -53,8 +53,6 @@ pip install backtrader pandas matplotlib
 
 3. **Review the results** in the console and the interactive plot.
 
-Here’s the updated **Customization** section for your README with proper formatting:
-
 ## Customization
 
 Modify **MovingAverageCrossStrategy** parameters by editing the `params` in the strategy:
