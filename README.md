@@ -75,3 +75,8 @@ params = (
 
 ## License
 MIT License - Free for academic and commercial use
+
+## For questions or suggestions, please contact:
+- Dylan Kyle Chua
+- Email: dylanchua.2023@scis.smu.edu.sg
+- GitHub: [dylankylechua72](https://github.com/dylankylechua72)
